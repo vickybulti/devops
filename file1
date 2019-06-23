@@ -4,3 +4,5 @@
 echo "git with jenkins"
 echo "trigger via pollscm"
 
+echo "auto trigger now"
+
