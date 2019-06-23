@@ -2,3 +2,5 @@
 
 
 echo "git with jenkins"
+echo "trigger via pollscm"
+
