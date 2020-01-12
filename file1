@@ -6,3 +6,4 @@ echo "trigger via pollscm"
 
 echo "auto trigger now"
 
+echo "check" 
